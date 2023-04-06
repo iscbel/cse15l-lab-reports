@@ -4,7 +4,7 @@
 3. Tako
 ---
 ```
-# tako
+tako
 tako tako
 ```
 
