@@ -9,4 +9,5 @@ tako tako
 ```
 
 > TAKO
-[[IMG-5395.png]]
+
+![TAKO](IMG-5395.png)
