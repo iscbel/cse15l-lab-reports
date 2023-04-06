@@ -20,3 +20,7 @@ In order to complete this part, be sure to have your CSE15L account and password
 
 Since I am using Windows, I will be installing 
 ![Git for Windows](https://gitforwindows.org/)
+
+In Visual Studio code, I will be setting the terminal to use `bash`.
+
+Next we will be opening up a new terminal that should look like the following:
