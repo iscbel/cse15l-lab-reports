@@ -1,1 +1,2 @@
-Hello, world!
+# Lab Report 1
+---
