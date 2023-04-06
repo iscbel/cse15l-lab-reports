@@ -10,4 +10,5 @@ In order to install visual studio code, we must go to the website to download an
 ![https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 After following the instructions and have downloaded visual studio code, if correctly installed, when opening up Visual Studio, it should look like this:
-![Image](Screenshot (61).png)
+
+![Visual Studio Code](VSCODE.png)
