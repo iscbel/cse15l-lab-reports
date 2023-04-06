@@ -32,3 +32,8 @@ We will use `ssh` by using the terminal we just opened up and typing in the foll
 
 If it's your first time connecting to the server, you will be met with a message that will ask you to type in `yes` to continue. After you will then be connected and see a screen similar to this one. 
 ![Terminal when logged in](TerminalLoggedIn.png)
+Because it is not my first time logging in, it will not be asking me to answer the yes or no question.
+
+We have now successfully connected to a server through our client. 
+
+## Trying Commands
