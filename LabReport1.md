@@ -24,3 +24,4 @@ Since I am using Windows, I will be installing
 In Visual Studio code, I will be setting the terminal to use `bash`.
 
 Next we will be opening up a new terminal that should look like the following:
+![Terminal](Terminal.png)
