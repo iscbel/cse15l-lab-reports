@@ -10,4 +10,4 @@ tako tako
 
 > TAKO
 
-![TAKO](IMG-5395.png)
+![TAKO](IMG-5395.PNG)
