@@ -31,3 +31,4 @@ We will use `ssh` by using the terminal we just opened up and typing in the foll
 `$ ssh cs15lsp23zz@ieng6.ucsd.edu`
 
 If it's your first time connecting to the server, you will be met with a message that will ask you to type in `yes` to continue. After you will then be connected and see a screen similar to this one. 
+![Terminal when logged in](TerminalLoggedIn.png)
