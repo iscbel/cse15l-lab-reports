@@ -40,3 +40,4 @@ We have now successfully connected to a server through our client.
 For the last part of the lab report, I will be going over trying out commands and observations of what different commands do. We will be testing out commands such as `cd`, `ls`, `mkdir`, and `cp`.
 
 ---
+** Vocabulary **
