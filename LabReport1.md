@@ -4,3 +4,5 @@ In this lab, I will be going over how to install Visual Studio code for the firs
 
 We will be proceeding with the assumption that you were able to find your CSE15L course account through here:
 ![https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
+
+## Installing Visual Studio Code
