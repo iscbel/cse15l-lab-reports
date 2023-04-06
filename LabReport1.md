@@ -12,3 +12,7 @@ In order to install visual studio code, we must go to the website to download an
 After following the instructions and have downloaded visual studio code, if correctly installed, when opening up Visual Studio, it should look like this:
 
 ![Visual Studio Code](VSCODE.png)
+
+The color may be different depending on how the user has customized Visual Studio code in their working space. For now, we have installed Visual Studio code. 
+
+## Remotely Connecting to ieng6 
