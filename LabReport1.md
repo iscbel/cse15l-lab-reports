@@ -18,4 +18,5 @@ The color may be different depending on how the user has customized Visual Studi
 ## Remotely Connecting to ieng6 
 In order to complete this part, be sure to have your CSE15L account and password reset AND have Visual Studio code installed. 
 
-Since I am using Windows, I will be installing `Git for Windows`
+Since I am using Windows, I will be installing 
+![Git for Windows](https://gitforwindows.org/)
