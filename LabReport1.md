@@ -37,3 +37,6 @@ Because it is not my first time logging in, it will not be asking me to answer t
 We have now successfully connected to a server through our client. 
 
 ## Trying Commands
+For the last part of the lab report, I will be going over trying out commands and observations of what different commands do. We will be testing out commands such as `cd`, `ls`, `mkdir`, and `cp`.
+
+---
