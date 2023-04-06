@@ -25,3 +25,9 @@ In Visual Studio code, I will be setting the terminal to use `bash`.
 
 Next we will be opening up a new terminal that should look like the following:
 ![Terminal](Terminal.png)
+
+We will use `ssh` by using the terminal we just opened up and typing in the following but changing the `zz` letters with the letters of your own account that we searched up earlier. 
+
+`$ ssh cs15lsp23zz@ieng6.ucsd.edu`
+
+If it's your first time connecting to the server, you will be met with a message that will ask you to type in `yes` to continue. After you will then be connected and see a screen similar to this one. 
