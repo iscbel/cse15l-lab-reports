@@ -42,4 +42,5 @@ For the last part of the lab report, I will be going over trying out commands an
 ---
 **Vocabulary**
 
-`cd` is used for changing directories and can be followed with the directory you want to chang
+`cd` is used for changing directories and can be followed with the directory you want to change to. 
+`ls` 
