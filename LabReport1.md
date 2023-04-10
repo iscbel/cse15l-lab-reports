@@ -55,3 +55,5 @@ For the last part of the lab report, I will be going over trying out commands an
 Below, I've included a picture of what happens when running certain commands. 
 
 ![Testing out Commands](testingcommands.png)
+
+Here we have created a file named "test" and switched into it using the cd command. We also switch out of it by typing cd by itself.
