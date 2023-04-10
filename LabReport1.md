@@ -54,5 +54,4 @@ For the last part of the lab report, I will be going over trying out commands an
 
 Below, I've included a picture of what happens when running certain commands. 
 
-![Testing out Commands](testingcommands.png)
-
+![Testing out Commands]()
