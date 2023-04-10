@@ -43,4 +43,16 @@ For the last part of the lab report, I will be going over trying out commands an
 **Vocabulary**
 
 `cd` is used for changing directories and can be followed with the directory you want to change to. 
-`ls` 
+
+`ls` is used for listing out all the files that are inside of the current directory. 
+
+`pwd` is used to display the current directory that the user is currently in. 
+
+`mkdir` is used to create a new directory. 
+
+`cp` is used for copying files in one directory to another directory. 
+
+Below, I've included a picture of what happens when running certain commands. 
+
+
+
