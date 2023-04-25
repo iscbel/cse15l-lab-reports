@@ -18,7 +18,7 @@ For this piece, the code that is being called first checking that the URL has `/
 ![How Are You Message](HowAreYouString.png)
 For this piece, the same piece of code runs as above. We consider anything that is to the right of `=` as a string and add it on a next new line to the webString. 
 
-##Part 2
+## Part 2
 
-##Part 3
+## Part 3
 Something that I learned in both week 2 and week 3 lab was running a server on a remote computer. The concept was interesting to learn at first and a bit confusing and I had to understand how recognizing the different parts of a URL are important in order to be able to make the server do what we want by using the information in a URL.
