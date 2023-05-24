@@ -1,4 +1,4 @@
-## Lab Report 3
+# Lab Report 3
 This lab report will be focusing on researching `find` command online. I will be finding 4 interesting command-line options or alternative ways to use the command `find`. 
 
 ## What is `find`?
@@ -13,3 +13,7 @@ So now lets try using `find` with a word attached to it to make it try finding m
 ![find desktop](/pictures/findesktop.png)
 
 Here we can see there is significantly less files/directories that were found when we added a word next to `find`. It just filters what we're trying to look for. 
+
+Now that I've explained a little basics on what `find` is used for, I will be showing my research on command-line options/ alternative ways to use the command and show 2 examples for each.
+
+## 1: Using `-or`
