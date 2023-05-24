@@ -16,5 +16,5 @@ Here we can see there is significantly less files/directories that were found wh
 
 Now that I've explained a little basics on what `find` is used for, I will be showing my research on command-line options/ alternative ways to use the command and show 2 examples for each.
 
-## 1: Using `or`
+## 1: Using `-not`
 **Source**: [Using not with find](https://adamtheautomator.com/bash-find/#Filtering_out_Files_with_the_-not_Operator)
