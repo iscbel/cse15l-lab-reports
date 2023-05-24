@@ -16,9 +16,5 @@ Here we can see there is significantly less files/directories that were found wh
 
 Now that I've explained a little basics on what `find` is used for, I will be showing my research on command-line options/ alternative ways to use the command and show 2 examples for each.
 
-## 1: Using `-or`
-**Source**: [Using -or with find](https://adamtheautomator.com/bash-find/#Combining_Two_Conditions_with_the_-or_Operator)
-
-One thing that I found in my research was the usage of combining `-or` along with `find`. We are told in the instructions that we will be using `./technical`. A little explanation of what is inside `./technical` is a bunch of files with txt files containing different information and different lengths of text. It can get a little difficult to find something within those files especially if you don't remember the name of the file exactly. 
-
-### Example 1
+## 1: Using `or`
+**Source**: [Using not with find](https://adamtheautomator.com/bash-find/#Filtering_out_Files_with_the_-not_Operator)
