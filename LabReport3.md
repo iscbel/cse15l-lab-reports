@@ -21,4 +21,4 @@ Now that I've explained a little basics on what `find` is used for, I will be sh
 
 In the write-up for lab report 3, we are told to use the files and directories from `./technical` so that is where I will be pulling the examples from. 
 
-The -not
+Using `-not` combined with `find` will be able to 
