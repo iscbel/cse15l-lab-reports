@@ -9,5 +9,7 @@ Before researching different/ alternative ways of using the command. I do want t
 This is just a small part of what bash was doing, I had to stop it from going through all the files because it was too much. 
 
 So now lets try using `find` with a word attached to it to make it try finding more specific files/directories. 
+
 ![find desktop](/pictures/findesktop.png)
 
+Here we can see there is significantly less files/directories that were found when we added a word next to `find`. It just filters what we're trying to look for. 
