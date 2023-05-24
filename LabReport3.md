@@ -17,3 +17,5 @@ Here we can see there is significantly less files/directories that were found wh
 Now that I've explained a little basics on what `find` is used for, I will be showing my research on command-line options/ alternative ways to use the command and show 2 examples for each.
 
 ## 1: Using `-or`
+** Source **:
+One thing that I found in my research was the usage of combining `-or` along with `find`. 
