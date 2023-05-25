@@ -21,4 +21,8 @@ Now that I've explained a little basics on what `find` is used for, I will be sh
 
 In the write-up for lab report 3, we are told to use the files and directories from `./technical` so that is where I will be pulling the examples from. 
 
-Using `-not` combined with `find` will be able to 
+Using `-not` combined with `find` will be able to filter out anything we know we are NOT looking for. Or just remove certain files/directories in general to make it easier to find what we are looking for.
+
+### Example 1
+
+![Before -not](/pictures/fullgov.png)
