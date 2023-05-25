@@ -1,6 +1,8 @@
 # Lab Report 3
 This lab report will be focusing on researching `find` command online. I will be finding 4 interesting command-line options or alternative ways to use the command `find`. 
 
+**Note that for some of the examples, I will be combining the usage of more than one command line options used with `find` in order to explore different combinations of how to use `find`**
+
 ## What is `find`?
 Before researching different/ alternative ways of using the command. I do want to review, (mainly for my sake), the purpose of using `find` and how it can be useful. In general, the `find` command allows us to be able to search for files and directories. For example if I open up a terminal in `Visual Studios` and run the find command just by itself with nothing else attached, it will start searching through ALL of the files since I did not specify what I was trying to find. 
 
@@ -33,4 +35,10 @@ Here are all the files that are within `docsearch/technical/government/Media`. T
 
 In the picture we can see it filters out all the files within `docsearch/technical/government/Media` that start with capital F. It is case sensitive and goes through each file inside of the directory we are in. 
 
-## 2: Using `-or`
+## 2: Using `-and`
+**Source**: [Using and with find](https://adamtheautomator.com/bash-find/#Combining_Two_Conditions_with_the_-and_Operator)
+
+Now that we know how to filter out words we are not looking for, what if we have more than one keyword of the file we are looking for? That's where `-and` comes into use and can be useful when trying to find files that contain more than one key word of what you are looking for. 
+
+### Example 2
+
