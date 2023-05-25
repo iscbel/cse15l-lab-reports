@@ -56,3 +56,7 @@ What if we want to filter out words depending on what keywords we know NOT to lo
 ![Not and And](pictures/notand.png)
 
 I kinda went a little crazy typing up the words I wanted to filter out from `biomed` (mainly because I want it to fit on a screenshot but that's beside the point!). Aside from showing the possibility of combining `-not` and `-and` I also demonstrated the fact that you can format it like a run-on sentence, allowing multiple keywords of words you are either trying to look for or NOT trying to look for! Pretty cool :D
+
+## 3: Finding and Removing a file (with confirmation of it's removal!)
+**Source**: [Finding and removing a file](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
+We know by now that all the files that are within `technical/` are A LOT and at times it might be a hassle to find the one you want to remove. 
