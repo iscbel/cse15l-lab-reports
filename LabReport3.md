@@ -27,9 +27,9 @@ Using `-not` combined with `find` will be able to filter out anything we know we
 
 ### Example 1
 
-![Before not](pictures/fullgovpic.png)
-
 Here are all the files that are within `docsearch/technical/government/Media`. Those are a lot of files that we might not even need all of them. Say for example we don't need any of the ones containing the letter `F`. 
+
+![Before not](pictures/fullgovpic.png)
 
 ![Not f](pictures/findnotf.png)
 
@@ -42,3 +42,4 @@ Now that we know how to filter out words we are not looking for, what if we have
 
 ### Example 2
 
+![biomed full list](pictures/biomedfulllist.png)
