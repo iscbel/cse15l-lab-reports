@@ -25,6 +25,6 @@ Using `-not` combined with `find` will be able to filter out anything we know we
 
 ### Example 1
 
-![Before not](/pictures/fullgov.png)
+![Before not](pictures/fullgov.png)
 
 Here are all the files that are within `docsearch/technical/government/Media`
