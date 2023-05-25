@@ -25,7 +25,7 @@ In the write-up for lab report 3, we are told to use the files and directories f
 
 Using `-not` combined with `find` will be able to filter out anything we know we are NOT looking for. Or just remove certain files/directories in general to make it easier to find what we are looking for.
 
-### Example 1
+### Example 1: Using -not by itself with find
 
 Here are all the files that are within `docsearch/technical/government/Media`. Those are a lot of files that we might not even need all of them. Say for example we don't need any of the ones containing the letter `F`. 
 
@@ -40,9 +40,15 @@ In the picture we can see it filters out all the files within `docsearch/technic
 
 Now that we know how to filter out words we are not looking for, what if we have more than one keyword of the file we are looking for? That's where `-and` comes into use and can be useful when trying to find files that contain more than one key word of what you are looking for. 
 
-### Example 2
+### Example 2: Using -and by itself with find
 
 ![biomed full list](pictures/biomedfulllist.png)
 
 Here we can see there are a ton of txt files within biomed! Let's try filtering out the ones we are looking for using keywords such as `gb` and `12` in order to just get the files containing that. 
 
+![filtered biomed](pictures/findgb12.png)
+
+We can see that using `-and` filtered out everything inside of the biomed directory and left us with anything containing `gb` and `12`! 
+
+### Example 3: Combining the usage of `-and` and `-not`
+What if we want to filter out words depending on what keywords we know NOT to look for. (Notice I said keywordS meaning multiple ones!) We can use `-not` and `-and` in a combination to filter out multiple key words on what we are NOT looking for. 
