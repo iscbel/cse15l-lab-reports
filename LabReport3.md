@@ -80,5 +80,12 @@ Here we can see that by using a combination of `-find` and `-delete` we are able
 
 ## 4: Using `grep` along with `find`
 **Sources** [Using `grep`](https://stackoverflow.com/questions/16956810/how-can-i-find-all-files-containing-specific-text-string-on-linux)
+
 We have so far only been looking for files with certain names but what if we also want to look at keywords that are within said files. 
+
+### Example 6: Using `grep` along with `find`
+Let's say that we are withing `technical/911reports` and we are trying to find any .txt file that has a mention of `school` in it. There's not that many files inside of `/911reports` however each one contains a lot of text that it would just be inconvenient to go through each one individually and skim through until we find it. 
+
+![School find](pictures/schoolfind.png)
+Here we can see the command that I ran using `grep` in order to filter out which txt files did not contain the mention of the word `school`.
 
