@@ -78,3 +78,7 @@ We can see that we have multiple files within biomed that contain the keyword `r
 
 Here we can see that by using a combination of `-find` and `-delete` we are able to take away all of the txt files that had any mention of research in the name and are left with the ones that do not have it in the name.
 
+## 4: Using `grep` along with `find`
+**Sources** [Using `grep`](https://stackoverflow.com/questions/16956810/how-can-i-find-all-files-containing-specific-text-string-on-linux)
+We have so far only been looking for files with certain names but what if we also want to look at keywords that are within said files. 
+
