@@ -27,4 +27,10 @@ Using `-not` combined with `find` will be able to filter out anything we know we
 
 ![Before not](pictures/fullgovpic.png)
 
-Here are all the files that are within `docsearch/technical/government/Media`
+Here are all the files that are within `docsearch/technical/government/Media`. Those are a lot of files that we might not even need all of them. Say for example we don't need any of the ones containing the letter `F`. 
+
+![Not f](pictures/findnotf.png)
+
+In the picture we can see it filters out all the files within `docsearch/technical/government/Media` that start with capital F. It is case sensitive and goes through each file inside of the directory we are in. 
+
+## 2: Using `-or`
