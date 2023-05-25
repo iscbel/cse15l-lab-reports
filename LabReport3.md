@@ -43,3 +43,6 @@ Now that we know how to filter out words we are not looking for, what if we have
 ### Example 2
 
 ![biomed full list](pictures/biomedfulllist.png)
+
+Here we can see there are a ton of txt files within biomed! Let's try filtering out the ones we are looking for using keywords such as `gb` and `12` in order to just get the files containing that. 
+
