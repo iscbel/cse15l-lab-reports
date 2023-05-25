@@ -57,6 +57,24 @@ What if we want to filter out words depending on what keywords we know NOT to lo
 
 I kinda went a little crazy typing up the words I wanted to filter out from `biomed` (mainly because I want it to fit on a screenshot but that's beside the point!). Aside from showing the possibility of combining `-not` and `-and` I also demonstrated the fact that you can format it like a run-on sentence, allowing multiple keywords of words you are either trying to look for or NOT trying to look for! Pretty cool :D
 
-## 3: Finding and Removing a file (with confirmation of it's removal!)
-**Source**: [Finding and removing a file](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
-We know by now that all the files that are within `technical/` are A LOT and at times it might be a hassle to find the one you want to remove. 
+## 3: Using find and `-delete` to remove files
+**Source**: [Using delete and find together]([https://www.geeksforgeeks.org/find-command-in-linux-with-examples/](https://www.cyberciti.biz/faq/linux-unix-how-to-find-and-remove-files/))
+
+We know by now that all the files that are within `technical/` are A LOT and at times it might be a hassle to find the one you want to remove. We can easily use `-delete` to remove a file if we know the general name of that file. Let's try removing a file from `government/Media`.
+
+### Example 4: Using `-find` and `-delete`
+
+![Deleting Philly](pictures/deletephilly.png)
+
+The first part of the screenshot shows `government/Media` and in the fourth column we see a .txt file named `Philly_lawyers.txt`, say we do not know the full name of the file and can only remember that it starts with the word "Philly". We can see I run a line using `-find` and `-delete` with the only keyword i'm using is `Philly`. Once I run it we can see in the bottom fourth column that it no longer exists and was deleted based off of what I typed!.
+
+### Example 5: Deleting Multiple files of the same name
+
+![before](pictures/before.png)
+
+We can see that we have multiple files within biomed that contain the keyword `research`. What if we want to delete all of those files and only keep the ones that have nothing to do with research. 
+
+![after](pictures/after.png)
+
+Here we can see that by using a combination of `-find` and `-delete` we are able to take away all of the txt files that had any mention of research in the name and are left with the ones that do not have it in the name.
+
