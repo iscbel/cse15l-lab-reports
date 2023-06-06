@@ -13,7 +13,9 @@ Response: I see you are having an issue of the file you are trying to compile no
 ### 3: Another screenshot from the student
 Response from student: After thinking about it, I understand that I have to keep track of what directory I am running the bash script is. Before asking for help, I see that my issue was that it was not finding or compiling the file I wanted it to because it was all being stored inside of the grading-area, which I never switched my directory towards the grading area. Here is an update of my error and the fix.
 ![Filefound](pictures/filefound.png)
+In Line 32, I ensured that we go into the grading-area to go and compile the file and actually run it to see if it works. And it did!
 
+LAB REPORT NOTE: I used the code from lab 6 where we wrote the grading script and for my lab report i used this as the issue because it's the issue I had in lab and I figured out that the error was due to not keeping track of what directory I was in. 
 
 ### 4: Final response from TA (mimicking a TA)
 Response: Now that I have all the information of your code, I can see that it is nothing in your terminal that is causing 
