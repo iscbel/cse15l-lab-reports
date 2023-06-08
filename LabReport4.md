@@ -67,3 +67,7 @@ Great! Now we have our code working properly so we want to push it towards the r
 We type `git add ListExamples.java` and following it up with *`<ENTER>`* in order to include the changes. 
 
 ![picture](pictures/addgit.png)
+
+To fully commit we type in `git commit -m "Commit Message"` and follow it up with *`<ENTER>`*
+
+![Pic](pictures/pushcommit.png)
