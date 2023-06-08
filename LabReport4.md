@@ -27,6 +27,6 @@ Now that we know that the code is not running properly, we open up `ListExamples
 
 I type in `vim ListExamples.java` followed by *`<Enter>`* and we reach the text editor through the terminal. 
 
-![Opening of VIM](pictures/openvim.png)
+![Opening of VIM](pictures/vimopen.png)
 ## Step 8: Run the tests, demonstrating that they now succeed
 ## Step 9: Commit and Pus the resulting change to your github account
