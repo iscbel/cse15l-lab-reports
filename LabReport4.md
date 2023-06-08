@@ -77,6 +77,6 @@ At the bottom we can see the amount of files that were changed, what was inserte
 Finally to push it to our accounts, we type `git push` and *`<ENTER>`* to push the changes we made. 
 
 
-Side note: For some reason it is not allowing me fully push because it says my password failed. In the lab, my lab partner was able to push it without the authenticator so I know this step is correct.
+Side note: For some reason it is not allowing me fully push because it says my password failed. In the lab, my lab partner was able to push it without the authenticator so I know this step is correct. I went through the steps in the lab such as adding the authenticator key to github, however for some reason `git push` still does not want to work.
 
 The changes should reflect on our github repository now!
