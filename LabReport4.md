@@ -36,8 +36,11 @@ This is where we want to get to:
 ![Error](pictures/error.png)
 
 We know that the line we want to change contains the word `index1` therefore we can type in `/index1` followed by *`<enter>`* to get to the first occurrence of the word `index1`.
-We get to the first instance of `index1` and in my case I hit *`<n>`* 2 times to get to the desired location as shown by the picture below. 
+We get to the first instance of `index1` and in my case I hit *`<n>`* 2 times to get to the desired location as shown by the picture below. (Depending on where you are, you might need to hit *`<n>`* a couple of times to get to the desired location. 
 
 ![Location](pictures/vimsearch.png)
+
+Now we need to get the cursor on top of the 1 in order to change it to a 2. 
+We get there by typing `<l><l><l><l><l>`
 ## Step 8: Run the tests, demonstrating that they now succeed
 ## Step 9: Commit and Pus the resulting change to your github account
