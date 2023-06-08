@@ -56,4 +56,6 @@ Since we are still in insert mode we need to switch out of it before closing and
 ![picture](pictures/wqenter.png)
 
 ## Step 8: Run the tests, demonstrating that they now succeed
+Now that we have fixed our code through vim, we want to show that the test will run perfectly this time!
+We can press `<up>` `<up>` `<up>`
 ## Step 9: Commit and Pus the resulting change to your github account
