@@ -71,3 +71,9 @@ We type `git add ListExamples.java` and following it up with *`<ENTER>`* in orde
 To fully commit we type in `git commit -m "Commit Message"` and follow it up with *`<ENTER>`*
 
 ![Pic](pictures/pushcommit.png)
+
+At the bottom we can see the amount of files that were changed, what was inserted, and what was deleted!
+
+Finally to push it to our accounts, we type `git push` and *`<ENTER>`* to push the changes we made. 
+
+They should reflect on our github repository now!
