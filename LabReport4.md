@@ -11,6 +11,7 @@ In case I forget how to log in to my `ieng6` account, I can go to [Lab Report 1]
 ## Step 5: Clone your fork of the repository from your github account
 Now that we are logged in to our `ieng6` account, we clone the fork of the repository to our github account. [Lab 7](https://github.com/ucsd-cse15l-s23/lab7) is what we are cloning and as shown in the picture below, we have done that successfully. 
 We clone by using `git clone` followed by the link of the github repository we are trying to clone. I also typed in `ls` to show that we had cloned it successfully. 
+
 ![Clone repo](pictures/clonereal.png)
 ![Fork repo](pictures/forkrepo.png)
 
@@ -20,5 +21,6 @@ We try compiling both java files that are inside our directory by using `javac *
 ![Fail](pictures/awhfail.png)
 
 ## Step 7: Edit the Code file to fix the failing test
+I open up the code through github desktop and open it up with visual studio code to check and see where the issue lies. 
 ## Step 8: Run the tests, demonstrating that they now succeed
 ## Step 9: Commit and Pus the resulting change to your github account
