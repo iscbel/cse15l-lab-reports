@@ -16,7 +16,7 @@ We clone by using `git clone` followed by the link of the github repository we a
 ![Fork repo](pictures/forkrepo.png)
 
 ## Step 6: Run the tests, demonstrating that they fail
-Now that we have the lab7 directory, we must change directories in order to run the tests. We do so by typing in `cd lab7`. 
+Now that we have the lab7 directory, we must change directories in order to run the tests. We do so by typing in `cd lab7` and hitting *`<enter>`*.
 
 ![Fail](pictures/failureorg.png)
 
