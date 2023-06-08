@@ -9,7 +9,7 @@ In case I forget how to log in to my `ieng6` account, I can go to [Lab Report 1]
 ![logging in](pictures/logginin.png)
 
 ## Step 5: Clone your fork of the repository from your github account
-Now that we are logged in to our `ieng6` account, we clone the fork of the repository to our github account. I type in [Lab 7](https://github.com/ucsd-cse15l-s23/lab7) and hit *<enter>* is what we are cloning and as shown in the picture below, we have done that successfully. 
+Now that we are logged in to our `ieng6` account, we clone the fork of the repository to our github account. I type in [Lab 7](https://github.com/ucsd-cse15l-s23/lab7) and hit *`<enter>`* is what we are cloning and as shown in the picture below, we have done that successfully. 
 We clone by using `git clone` followed by the link of the github repository we are trying to clone. I also typed in `ls` to show that we had cloned it successfully. 
 
 ![Clone repo](pictures/clonereal.png)
