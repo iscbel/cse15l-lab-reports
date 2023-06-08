@@ -16,11 +16,15 @@ We clone by using `git clone` followed by the link of the github repository we a
 ![Fork repo](pictures/forkrepo.png)
 
 ## Step 6: Run the tests, demonstrating that they fail
-Now that we have the lab7 directory, we must change directories in order to run the tests. We do so by typing in `cd lab7` and hitting *`<enter>`*.
+Now that we have the lab7 directory, we must change directories in order to run the tests. We do so by typing in `cd lab7` and hitting *`<enter>`*. 
 
 ![Fail](pictures/failureorg.png)
 
+We can see that there is one failure when running the bash script.
+
 ## Step 7: Edit the Code file to fix the failing test
-I open up the code through github desktop and open it up with visual studio code to check and see where the issue lies. 
+Now that we know that the code is not running properly, we open up `ListExamples.java` using vim. 
+
+I type in `vim ListExamples.java` followed by *`<Enter>`*
 ## Step 8: Run the tests, demonstrating that they now succeed
 ## Step 9: Commit and Pus the resulting change to your github account
