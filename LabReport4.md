@@ -51,5 +51,7 @@ Now that we are at the location that we want to edit. We type `x` in order to de
 Once deleted, we type `i` in order to go into editing mode and type `2` to make the change.
 ![Insert](pictures/insert.png)
 ![Insert](pictures/twoinsert.png)
+
+Since we are still in insert mode we need to switch out of it before closing and saving and we do so by hitting *`<ESC>`*
 ## Step 8: Run the tests, demonstrating that they now succeed
 ## Step 9: Commit and Pus the resulting change to your github account
