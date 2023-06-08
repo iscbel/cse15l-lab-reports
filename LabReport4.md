@@ -76,7 +76,7 @@ At the bottom we can see the amount of files that were changed, what was inserte
 
 Finally to push it to our accounts, we type `git push` and *`<ENTER>`* to push the changes we made. 
 
-![Picture](pictures/finallydone.png)
-Side note: For some reason it is not allowing me fully push because it says my password failed. In the lab, my lab partner was able to push it without the authenticator so I know this step is correct
 
-They should reflect on our github repository now!
+Side note: For some reason it is not allowing me fully push because it says my password failed. In the lab, my lab partner was able to push it without the authenticator so I know this step is correct.
+
+The changes should reflect on our github repository now!
