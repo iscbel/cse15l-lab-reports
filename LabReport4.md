@@ -36,5 +36,8 @@ This is where we want to get to:
 ![Error](pictures/error.png)
 
 We know that the line we want to change contains the word `index1` therefore we can type in `/index1` followed by *`<enter>`* to get to the first occurrence of the word `index1`.
+We get to the first instance of `index1` and in my case I hit *`<n>`* 2 times to get to the desired location as shown by the picture below. 
+
+![Location](pictures/vimsearch.png)
 ## Step 8: Run the tests, demonstrating that they now succeed
 ## Step 9: Commit and Pus the resulting change to your github account
