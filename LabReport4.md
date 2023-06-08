@@ -15,10 +15,10 @@ We clone by using `git clone` followed by the link of the github repository we a
 ![Clone repo](pictures/clonereal.png)
 ![Fork repo](pictures/forkrepo.png)
 
-## Step 6: Run the tests, demonstrating that they fail\
-We try compiling both java files that are inside our directory by using `javac *.java` which compiles all the java files inside of the directory.
+## Step 6: Run the tests, demonstrating that they fail
+Now that we have the lab7 directory, we must change directories in order to run the tests. We do so by typing in `cd lab7`. 
 
-![Fail](pictures/awhfail.png)
+![Fail](pictures/failureorg.png)
 
 ## Step 7: Edit the Code file to fix the failing test
 I open up the code through github desktop and open it up with visual studio code to check and see where the issue lies. 
