@@ -9,23 +9,23 @@ In case I forget how to log in to my `ieng6` account, I can go to [Lab Report 1]
 ![logging in](pictures/logginin.png)
 
 ## Step 5: Clone your fork of the repository from your github account
-Now that we are logged in to our `ieng6` account, we clone the fork of the repository to our github account. I type in [Lab 7](https://github.com/ucsd-cse15l-s23/lab7) and hit *`<enter>`* is what we are cloning and as shown in the picture below, we have done that successfully. 
+Now that we are logged in to our `ieng6` account, we clone the fork of the repository to our github account. I type in [Lab 7](https://github.com/ucsd-cse15l-s23/lab7) (the link) and hit *`<enter>`* is what we are cloning and as shown in the picture below, we have done that successfully. 
 We clone by using `git clone` followed by the link of the github repository we are trying to clone. I also typed in `ls` to show that we had cloned it successfully. 
 
 ![Clone repo](pictures/clonereal.png)
 ![Fork repo](pictures/forkrepo.png)
 
 ## Step 6: Run the tests, demonstrating that they fail
-Now that we have the lab7 directory, we must change directories in order to run the tests. We do so by typing in `cd lab7` and hitting *`<enter>`*. 
+Now that we have the lab7 directory, we must change directories in order to run the tests. We do so by typing in `cd lab7` and hitting *`<ENTER>`*. 
 
 ![Fail](pictures/failureorg.png)
 
-We can see that there is one failure when running the bash script.
+We can see that there is one failure when running the bash script. We must edit the file to fix this issue.
 
 ## Step 7: Edit the Code file to fix the failing test
 Now that we know that the code is not running properly, we open up `ListExamples.java` using vim. 
 
-I type in `vim ListExamples.java` followed by *`<Enter>`* and we reach the text editor through the terminal. 
+I type in `vim ListExamples.java` followed by *`<ENTER>`* and we reach the text editor through the terminal. 
 
 ![Opening of VIM](pictures/vimopen.png)
 
