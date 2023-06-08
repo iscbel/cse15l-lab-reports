@@ -42,5 +42,6 @@ We get to the first instance of `index1` and in my case I hit *`<n>`* 2 times to
 
 Now we need to get the cursor on top of the 1 in order to change it to a 2. 
 We get there by typing `<l><l><l><l><l>`
+![Location](pictures/leftl.png)
 ## Step 8: Run the tests, demonstrating that they now succeed
 ## Step 9: Commit and Pus the resulting change to your github account
