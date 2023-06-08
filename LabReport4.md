@@ -25,6 +25,8 @@ We can see that there is one failure when running the bash script.
 ## Step 7: Edit the Code file to fix the failing test
 Now that we know that the code is not running properly, we open up `ListExamples.java` using vim. 
 
-I type in `vim ListExamples.java` followed by *`<Enter>`*
+I type in `vim ListExamples.java` followed by *`<Enter>`* and we reach the text editor through the terminal. 
+
+![Opening of VIM](pictures/openvim.png)
 ## Step 8: Run the tests, demonstrating that they now succeed
 ## Step 9: Commit and Pus the resulting change to your github account
