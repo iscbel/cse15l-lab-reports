@@ -15,7 +15,9 @@ Now that we are logged in to our `ieng6` account, we clone the fork of the repos
 We clone by using `git clone` followed by the link of the github repository we are trying to clone. I also typed in `ls` to show that we had cloned it successfully. 
 ![Clone repo](pictures/clonereal.png)
 ![Fork repo](pictures/forkrepo.png)
-## Step 6: Run the tests, demonstrating that they fail
+## Step 6: Run the tests, demonstrating that they fail\
+We try compiling both java files that are inside our directory by using `javac *.java` which compiles all the java files inside of the directory.
+![Fail](pictures/awhfail.png)
 ## Step 7: Edit the Code fil to fix the failing test
 ## Step 8: Run the tests, demonstrating that they now succeed
 ## Step 9: Commit and Pus the resulting change to your github account
