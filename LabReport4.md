@@ -61,4 +61,9 @@ We can press `<up>` `<up>` `<up>` and then `<ENTER>` to run `bash test.sh` again
 
 ![pictures](pictures/runningagain.png)
 
-## Step 9: Commit and Pus the resulting change to your github account
+## Step 9: Commit and Push the resulting change to your github account
+Great! Now we have our code working properly so we want to push it towards the repository we copied it from. 
+
+We type `git add ListExamples.java` and following it up with *`<ENTER>`* in order to include the changes. 
+
+![picture](pictures/addgit.png)
