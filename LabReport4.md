@@ -32,6 +32,9 @@ I type in `vim ListExamples.java` followed by *`<Enter>`* and we reach the text 
 This is what we see and we cannot move our cursor to where we want to make changes to we have to use arrow keys in order to arrive to where we want. 
 
 This is where we want to get to:
+
 ![Error](pictures/error.png)
+
+We know that the line we want to change contains the word `index1` therefore we can type in `/index1` followed by *`<enter>`* to get to the first occurrence of the word `index1`.
 ## Step 8: Run the tests, demonstrating that they now succeed
 ## Step 9: Commit and Pus the resulting change to your github account
